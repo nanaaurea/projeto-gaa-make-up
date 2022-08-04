@@ -1,0 +1,26 @@
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\projeto 2 guilherme ana ana.exe.config
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\projeto 2 guilherme ana ana.exe
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\projeto 2 guilherme ana ana.pdb
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\obj\Debug\projeto 2 guilherme ana ana.csproj.AssemblyReference.cache
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\obj\Debug\projeto 2 guilherme ana ana.csproj.SuggestedBindingRedirects.cache
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\obj\Debug\projeto_2_guilherme_ana_ana.Form1.resources
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\obj\Debug\projeto_2_guilherme_ana_ana.Properties.Resources.resources
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\obj\Debug\projeto 2 guilherme ana ana.csproj.GenerateResource.cache
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\obj\Debug\projeto 2 guilherme ana ana.csproj.CoreCompileInputs.cache
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\obj\Debug\projeto 2 guilherme ana ana.exe
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\obj\Debug\projeto 2 guilherme ana ana.pdb
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\MySqlConnector.dll
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Buffers.dll
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Memory.dll
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\MySqlConnector.xml
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Buffers.xml
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Memory.xml
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ana.argomes\OneDrive - SENAC - SP\projeto 2 guilherme ana ana\projeto 2 guilherme ana ana\obj\Debug\projeto 2 guilherme ana ana.csproj.CopyComplete
